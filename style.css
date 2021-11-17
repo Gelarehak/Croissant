@@ -10,8 +10,7 @@ footer {
   text-align: center;
   color: green;
 }
-
-.photo {
+footer a {
   margin: 20px;
 }
 body {
