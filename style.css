@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  font-size: 15px;
+  font-weight: normal;
+}
+footer {
+  text-align: center;
+  color: green;
+}
+.photo {
+  margin: 20px;
+}
